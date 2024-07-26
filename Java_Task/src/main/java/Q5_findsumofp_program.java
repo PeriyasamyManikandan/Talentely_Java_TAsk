@@ -1,3 +1,4 @@
+//5. Find sum of all prime numbers in the array, except the smallest prime number:Madhav has assigned the task of finding the sum of all prime number in the array, except the smallest prime number in the array. Madhav approaches you to help him do this by writing a program.
 import java.util.*;
 
 public class findsumofp_program5 {
