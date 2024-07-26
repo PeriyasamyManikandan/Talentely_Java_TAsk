@@ -1,4 +1,4 @@
-
+// Given an integer array input1[], function transformCodes returns a String array by following the below steps:
 import java.util.*;
 public class transformCode_program3 {
 	//Input Function
