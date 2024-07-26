@@ -1,4 +1,4 @@
-
+// 2.Encoding Three Strings: Anand was assigned the task of coming up with an encoding mechanism for any given three strings.He has come up with the below plan
 import java.util.Arrays;
 import java.util.Scanner;
 
